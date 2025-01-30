@@ -1,3 +1,6 @@
 [submodule "assignments/altSchool-tinyuka-2024--html-assignments"]
 	path = assignments/altSchool-tinyuka-2024--html-assignments
 	url = https://github.com/AJ1732/altSchool-tinyuka-2024--html-assignments.git
+[submodule "assignments/altSchool-tinyuka-2024--css-assignments"]
+	path = assignments/altSchool-tinyuka-2024--css-assignments
+	url = https://github.com/AJ1732/altSchool-tinyuka-2024--css-assignments
