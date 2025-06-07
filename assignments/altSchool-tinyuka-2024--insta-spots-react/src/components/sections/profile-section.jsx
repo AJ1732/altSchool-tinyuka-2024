@@ -11,8 +11,8 @@ export default function ProfileSection() {
   const postDialog = useDialog();
 
   const [profile, setProfile] = useState({
-    name: "Bessie Coleman",
-    profession: "Civil Aviator",
+    name: "Ejemen Iboi",
+    profession: "Frontend Engineer",
     profileImage: "/insta-spots-profile.png",
   });
 
