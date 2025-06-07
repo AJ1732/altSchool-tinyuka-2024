@@ -7,3 +7,6 @@
 [submodule "practice/altSchool-tinyuka-2024--react-practice"]
 	path = practice/altSchool-tinyuka-2024--react-practice
 	url = https://github.com/AJ1732/altSchool-tinyuka-2024--react-practice
+[submodule "altSchool-tinyuka-2024--insta-spots-react"]
+	path = altSchool-tinyuka-2024--insta-spots-react
+	url = git@github.com:AJ1732/altSchool-tinyuka-2024--insta-spots-react.git
